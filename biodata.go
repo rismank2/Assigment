@@ -26,6 +26,7 @@ var Datas = []data{
 	{no_absen: 8, nama: "Fariz Dandy Lazuardi"},
 	{no_absen: 9, nama: "Saritalia"},
 	{no_absen: 10, nama: "Bima Karo Karo"},
+	{no_absen: 10, nama: "Nadine"},
 }
 
 func view(data) {
