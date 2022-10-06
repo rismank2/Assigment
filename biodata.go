@@ -30,7 +30,7 @@ var Datas = []data{
 
 func view(data) {
 	var mu data
-	mu.alamat = "Jakarta Pusat"
+	mu.alamat = "Jakarta Selatan"
 	mu.pekerjaan = "Karyawan Swasta"
 	mu.alasan = "Ingin menambah wawasan bahasa Pemrograman"
 
